@@ -38,8 +38,6 @@ This app is unofficial.
 
 It is not made by, connected to, or endorsed by Warner Bros., Harry Potter, or the official Magic Caster app.
 
-This is a fan-made / experimental tool for learning, Bluetooth testing, and personal wand-control projects.
-
 ---
 
 ## Requirements
